@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output
+salida/
+
+# Sensitive config (contains Netlify token)
+config.json
